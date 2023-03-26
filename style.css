@@ -1,0 +1,175 @@
+body {
+
+    background-color: black;
+    
+}
+
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header h1 {
+    padding: 10px;
+    color: aliceblue;
+}
+
+.banner {
+    height:60vh;
+    background-image:url(banner.jpg);
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner_tkj {
+    height:60vh;
+    background-image:url(banner_tkj.png);
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner_software {
+    height:60vh;
+    background-image:url(banner_software.png);
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner_games {
+    height:60vh;
+    background-image:url(banner_games.png);
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.download h3 {
+    color: aliceblue;
+}
+.server h3 {
+    color: aliceblue;
+}
+.mediafire img {
+    justify-items: center;
+    width: 250px;
+    align-items: center;
+}
+
+.mediafire p {
+    color: aliceblue;
+}
+.opener h1 {
+    color: aliceblue;
+    font-size: 30px;
+    display: block
+    
+}
+
+h2 {
+    color: aliceblue;
+}
+
+.navbar {
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-around;
+    display: flex;
+    background-color: blue;
+}
+
+.list_tkj {
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.download  {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+
+.list_tkj img {
+    width: 200px;
+    
+}
+
+.deskripsi {
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.debian_buster img {
+    width: 250px;
+}
+
+.debian_bullseye img {
+    width: 250px;
+}
+
+.windows_server_2016 img {
+    width: 160px;
+}
+
+.windows_server_2019 img {
+    width: 250px;
+}
+
+
+
+
+.images {
+    width: 400px;
+}
+.list_tkj img:hover {
+    background-color: gray;
+}
+
+li {
+    list-style: none;
+}
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+
+.navbar li:hover {
+    background-color: aliceblue;
+    color: blue;
+}
+
+.para p {
+    color: aliceblue;
+    padding-left: 25px;
+    padding: 25px;
+}
+.navbar li {
+    padding: 20px;
+}
+
+.navbar li a:hover {
+    color: blue;
+    background-color: aliceblue;
+}
+
+.ubuntu_banner {
+    height: 300px;
+    
+}
